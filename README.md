@@ -16,8 +16,8 @@
 ---
 
 ## 📄 Certifications
-- 🧠 Machine Learning – Dicoding *(add link if you have it)*
-- 📊 Data Analysis with Python *(upload PDF to a repo or Drive)*
+- 🧠 Machine Learning / Data Science – Dicoding *(https://www.dicoding.com/certificates/JLX124WRNZ72)*
+- 📊 Pemerograman Web - Dicoding *(https://www.dicoding.com/certificates/MEPJVWK44P3V)*
 
 ---
 
