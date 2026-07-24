@@ -1,29 +1,20 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&duration=1800&pause=1500&color=F0F6FC&center=true&vCenter=true&repeat=false&width=900&height=75&lines=NUSIRWAN+EKA+PUTRA"
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=900&height=70&lines=NUSIRWAN+EKA+PUTRA"
   alt="Nusirwan Eka Putra"
 />
+
+<h3>CTO | DevOps & Platform Engineering</h3>
+
+<p>
+  <strong>Ready Room Indonesia</strong>
+</p>
 
 <br />
 
 <img
-  src="https://img.shields.io/badge/CTO-1F6FEB?style=for-the-badge&logo=github&logoColor=white"
-  alt="CTO"
-/>
-<img
-  src="https://img.shields.io/badge/DevOps%20%26%20Platform%20Engineering-21262D?style=for-the-badge&logo=linux&logoColor=F0F6FC"
-  alt="DevOps and Platform Engineering"
-/>
-<img
-  src="https://img.shields.io/badge/Ready%20Room%20Indonesia-C62828?style=for-the-badge&logo=googlecloud&logoColor=white"
-  alt="Ready Room Indonesia"
-/>
-
-<br /><br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=BUILD+%2F+SHIP+%2F+OPERATE+%2F+SCALE;WEB+%2F+MOBILE+%2F+BACKEND+%2F+INFRASTRUCTURE"
+  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=18&duration=2800&pause=1100&color=8B949E&center=true&vCenter=true&width=820&height=36&lines=Building+technology+from+development+to+production.;Web.+Mobile.+Backend.+Infrastructure.;Build.+Ship.+Operate.+Scale."
   alt="Engineering focus"
 />
 
@@ -33,28 +24,33 @@
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <h3>BUILD</h3>
       <p>
-        Web Application<br />
-        Mobile Application<br />
-        Backend API
+        Web Applications<br />
+        Mobile Applications<br />
+        Backend Services<br />
+        Internal Platforms
       </p>
     </td>
-    <td width="33%" align="center">
+
+    <td width="33%" align="center" valign="top">
       <h3>OPERATE</h3>
       <p>
-        Production Server<br />
-        Database & Deployment<br />
-        Monitoring & Security
+        Production Servers<br />
+        Database Systems<br />
+        Deployment<br />
+        Monitoring
       </p>
     </td>
-    <td width="33%" align="center">
+
+    <td width="33%" align="center" valign="top">
       <h3>LEAD</h3>
       <p>
         Technology Strategy<br />
         Platform Engineering<br />
-        Product Development
+        Product Development<br />
+        Technical Operations
       </p>
     </td>
   </tr>
@@ -62,41 +58,64 @@
 
 ---
 
-## CURRENTLY
+## About
+
+I build and operate digital products from development to production.
+
+Currently serving as **CTO | DevOps & Platform Engineering at Ready Room Indonesia**, responsible for application development, backend systems, mobile development, production infrastructure, deployment, security, performance, and technical product development.
+
+My focus is building technology that works reliably in real business operations.
+
+---
+
+## Currently Building
 
 <table>
   <tr>
     <td width="72%" valign="middle">
-      <h3>Ready Room Indonesia</h3>
-      <p>
-        Leading technology development across customer applications,
-        hotel operational systems, backend services, mobile development,
-        and production infrastructure.
-      </p>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img
-        src="https://img.shields.io/badge/STATUS-OPERATIONAL-238636?style=for-the-badge&labelColor=161B22"
-        alt="Operational"
-      />
-      <br /><br />
-      <img
-        src="https://img.shields.io/badge/ENV-PRODUCTION-F85149?style=for-the-badge&labelColor=161B22"
-        alt="Production"
-      />
-    </td>
+
+### Ready Room Indonesia
+
+A hotel technology platform connecting customer booking, hotel operations, mobile applications, administration, and partner services in one operational ecosystem.
+
+**Current responsibilities**
+
+- Web and mobile product development
+- Backend API and database development
+- Booking and hotel operational systems
+- Production deployment and server management
+- Application performance and security
+- Platform reliability and scalability
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://img.shields.io/badge/PRODUCTION-OPERATIONAL-238636?style=for-the-badge&labelColor=161B22"
+  alt="Production operational"
+/>
+
+<br /><br />
+
+<img
+  src="https://img.shields.io/badge/PLATFORM-READYROOM-C62828?style=for-the-badge&labelColor=161B22"
+  alt="ReadyRoom platform"
+/>
+
+</td>
   </tr>
 </table>
 
 ---
 
-## CORE STACK
+## Technology Stack
 
 <div align="center">
 
 <img
   src="https://skillicons.dev/icons?i=laravel,php,react,javascript,vite,tailwind,flutter,dart,firebase,mysql,nginx,ubuntu,git,github&perline=14&theme=dark"
-  alt="Core technology stack"
+  alt="Technology stack"
 />
 
 </div>
@@ -106,57 +125,104 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>APPLICATION</strong>
-      <br /><br />
-      Laravel<br />
-      React + Vite<br />
-      Flutter + Dart<br />
-      Tailwind CSS
-    </td>
-    <td width="33%" valign="top">
-      <strong>PLATFORM</strong>
-      <br /><br />
-      REST API<br />
-      MySQL<br />
-      Firebase<br />
-      Authentication
-    </td>
-    <td width="33%" valign="top">
-      <strong>INFRASTRUCTURE</strong>
-      <br /><br />
-      Ubuntu VPS<br />
-      Nginx<br />
-      Git & GitHub<br />
-      Production Deployment
-    </td>
+
+### Application
+
+- Laravel
+- PHP
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### Mobile & Services
+
+- Flutter
+- Dart
+- Firebase
+- REST API
+- Authentication
+- Push Notification
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+- MySQL
+- Ubuntu VPS
+- Nginx
+- Git
+- GitHub
+- Production Deployment
+
+</td>
   </tr>
 </table>
 
 ---
 
-## ENGINEERING FOCUS
+## Engineering Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Production%20Systems-161B22?style=flat-square&logo=serverfault&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Platform%20Reliability-161B22?style=flat-square&logo=statuspage&logoColor=3FB950" />
-  <img src="https://img.shields.io/badge/API%20%26%20Backend-161B22?style=flat-square&logo=laravel&logoColor=F85149" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-161B22?style=flat-square&logo=flutter&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Security-161B22?style=flat-square&logo=letsencrypt&logoColor=F0F6FC" />
-  <img src="https://img.shields.io/badge/Performance-161B22?style=flat-square&logo=speedtest&logoColor=F2CC60" />
-  <img src="https://img.shields.io/badge/Monitoring-161B22?style=flat-square&logo=grafana&logoColor=FF8C00" />
-  <img src="https://img.shields.io/badge/Scalability-161B22?style=flat-square&logo=kubernetes&logoColor=58A6FF" />
-</p>
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Backend%20Development-161B22?style=flat-square&logo=laravel&logoColor=FF2D20"
+  alt="Backend development"
+/>
+
+<img
+  src="https://img.shields.io/badge/Mobile%20Development-161B22?style=flat-square&logo=flutter&logoColor=54C5F8"
+  alt="Mobile development"
+/>
+
+<img
+  src="https://img.shields.io/badge/Production%20Systems-161B22?style=flat-square&logo=serverfault&logoColor=58A6FF"
+  alt="Production systems"
+/>
+
+<img
+  src="https://img.shields.io/badge/Platform%20Engineering-161B22?style=flat-square&logo=linux&logoColor=F0F6FC"
+  alt="Platform engineering"
+/>
+
+<img
+  src="https://img.shields.io/badge/Security-161B22?style=flat-square&logo=letsencrypt&logoColor=3FB950"
+  alt="Security"
+/>
+
+<img
+  src="https://img.shields.io/badge/Performance-161B22?style=flat-square&logo=speedtest&logoColor=F2CC60"
+  alt="Performance"
+/>
+
+<img
+  src="https://img.shields.io/badge/Monitoring-161B22?style=flat-square&logo=grafana&logoColor=F46800"
+  alt="Monitoring"
+/>
+
+<img
+  src="https://img.shields.io/badge/Scalability-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5"
+  alt="Scalability"
+/>
+
+</div>
 
 ---
 
-## GITHUB PULSE
+## GitHub Activity
 
 <div align="center">
 
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api?username=ranumadz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&rank_icon=github"
-  alt="GitHub statistics"
+  alt="Nusirwan GitHub statistics"
 />
 
 <img
@@ -173,7 +239,7 @@
 
 <img
   src="https://streak-stats.demolab.com?user=ranumadz&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681"
-  alt="GitHub streak"
+  alt="GitHub contribution streak"
 />
 
 </div>
@@ -192,34 +258,35 @@
 
 ---
 
-## CERTIFICATIONS
+## Certifications
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>Machine Learning & Data Science</strong>
-      <br />
-      Dicoding Indonesia
-      <br /><br />
-      <a href="https://www.dicoding.com/certificates/JLX124WRNZ72">
-        View Certificate
-      </a>
-    </td>
-    <td width="50%">
-      <strong>Pemrograman Web</strong>
-      <br />
-      Dicoding Indonesia
-      <br /><br />
-      <a href="https://www.dicoding.com/certificates/MEPJVWK44P3V">
-        View Certificate
-      </a>
-    </td>
+    <td width="50%" valign="top">
+
+### Machine Learning & Data Science
+
+Dicoding Indonesia
+
+[View Certificate](https://www.dicoding.com/certificates/JLX124WRNZ72)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Pemrograman Web
+
+Dicoding Indonesia
+
+[View Certificate](https://www.dicoding.com/certificates/MEPJVWK44P3V)
+
+</td>
   </tr>
 </table>
 
 ---
 
-## CONNECT
+## Connect
 
 <div align="center">
 
@@ -247,7 +314,7 @@
 <a href="https://readyroom.id">
   <img
     src="https://img.shields.io/badge/ReadyRoom-readyroom.id-C62828?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="ReadyRoom"
+    alt="ReadyRoom website"
   />
 </a>
 
@@ -264,10 +331,10 @@
 
 <br /><br />
 
-<strong>READY ROOM INDONESIA</strong>
+<strong>CTO | DevOps & Platform Engineering</strong>
 
 <br />
 
-<sub>Development · Infrastructure · Production</sub>
+<sub>Ready Room Indonesia</sub>
 
 </div>
