@@ -1,128 +1,168 @@
 <div align="center">
 
-<h1>Nusirwan Eka Putra</h1>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=21&duration=3200&pause=1300&color=A8B2C1&center=true&vCenter=true&width=760&height=42&lines=CTO+%7C+DevOps+%26+Platform+Engineering;Building+technology+at+Ready+Room+Indonesia;Development.+Infrastructure.+Production."
+  src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&duration=1800&pause=1500&color=F0F6FC&center=true&vCenter=true&repeat=false&width=900&height=75&lines=NUSIRWAN+EKA+PUTRA"
   alt="Nusirwan Eka Putra"
 />
 
 <br />
 
-<strong>Ready Room Indonesia</strong>
+<img
+  src="https://img.shields.io/badge/CTO-1F6FEB?style=for-the-badge&logo=github&logoColor=white"
+  alt="CTO"
+/>
+<img
+  src="https://img.shields.io/badge/DevOps%20%26%20Platform%20Engineering-21262D?style=for-the-badge&logo=linux&logoColor=F0F6FC"
+  alt="DevOps and Platform Engineering"
+/>
+<img
+  src="https://img.shields.io/badge/Ready%20Room%20Indonesia-C62828?style=for-the-badge&logo=googlecloud&logoColor=white"
+  alt="Ready Room Indonesia"
+/>
 
 <br /><br />
 
 <img
-  src="https://img.shields.io/badge/Production-Operational-238636?style=flat-square&labelColor=21262D"
-  alt="Production operational"
-/>
-<img
-  src="https://img.shields.io/badge/Location-Tangerang-1F6FEB?style=flat-square&labelColor=21262D"
-  alt="Location Tangerang"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=800&height=35&lines=BUILD+%2F+SHIP+%2F+OPERATE+%2F+SCALE;WEB+%2F+MOBILE+%2F+BACKEND+%2F+INFRASTRUCTURE"
+  alt="Engineering focus"
 />
 
 </div>
-
-<br />
 
 ---
 
-## About
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>BUILD</h3>
+      <p>
+        Web Application<br />
+        Mobile Application<br />
+        Backend API
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>OPERATE</h3>
+      <p>
+        Production Server<br />
+        Database & Deployment<br />
+        Monitoring & Security
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>LEAD</h3>
+      <p>
+        Technology Strategy<br />
+        Platform Engineering<br />
+        Product Development
+      </p>
+    </td>
+  </tr>
+</table>
 
-I build and operate digital products from development to production.
+---
 
-Currently working as **CTO | DevOps & Platform Engineering at Ready Room Indonesia**, with responsibilities across application development, backend systems, infrastructure, deployment, security, performance, and technical product development.
+## CURRENTLY
 
-My work focuses on building technology that is useful, maintainable, reliable, and ready for real operational use.
+<table>
+  <tr>
+    <td width="72%" valign="middle">
+      <h3>Ready Room Indonesia</h3>
+      <p>
+        Leading technology development across customer applications,
+        hotel operational systems, backend services, mobile development,
+        and production infrastructure.
+      </p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img
+        src="https://img.shields.io/badge/STATUS-OPERATIONAL-238636?style=for-the-badge&labelColor=161B22"
+        alt="Operational"
+      />
+      <br /><br />
+      <img
+        src="https://img.shields.io/badge/ENV-PRODUCTION-F85149?style=for-the-badge&labelColor=161B22"
+        alt="Production"
+      />
+    </td>
+  </tr>
+</table>
 
-<br />
+---
 
-## What I Work On
-
-- Web and mobile application development
-- Backend API and database systems
-- Linux server and production deployment
-- Application performance and reliability
-- System security and access control
-- Monitoring and operational troubleshooting
-- Platform architecture and scalability
-- Technical product and engineering leadership
-
-<br />
-
-## Technology
-
-### Application Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,javascript,tailwind,vite&theme=dark" alt="Application development stack" />
-</p>
-
-`Laravel` · `PHP` · `React` · `JavaScript` · `Tailwind CSS` · `Vite`
-
-### Mobile and Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android&theme=dark" alt="Mobile and services stack" />
-</p>
-
-`Flutter` · `Dart` · `Firebase` · `Android`
-
-### Data and Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,ubuntu,nginx,git,github&theme=dark" alt="Infrastructure stack" />
-</p>
-
-`MySQL` · `Ubuntu` · `Nginx` · `Git` · `GitHub`
-
-<br />
-
-## Current Focus
-
-```text
-Platform Engineering
-Production Infrastructure
-Backend and API Development
-Mobile Application Development
-Security and Performance
-Monitoring and Scalability
-```
-
-<br />
-
-## Ready Room Indonesia
-
-Currently developing and maintaining the technology behind **Ready Room Indonesia**, including:
-
-- Customer booking application
-- Flutter mobile application
-- Admin and operational management panel
-- Hotel booking and room-management systems
-- Customer accounts and notifications
-- Hotel partner and extranet platform
-- Production server and infrastructure
-- Internal operational reports and monitoring
-
-The goal is to turn Ready Room into a reliable technology platform that supports customers, hotel operations, administrators, and business partners.
-
-<br />
-
-## GitHub Activity
+## CORE STACK
 
 <div align="center">
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=ranumadz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&rank_icon=github"
-  alt="Nusirwan GitHub statistics"
+  src="https://skillicons.dev/icons?i=laravel,php,react,javascript,vite,tailwind,flutter,dart,firebase,mysql,nginx,ubuntu,git,github&perline=14&theme=dark"
+  alt="Core technology stack"
+/>
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>APPLICATION</strong>
+      <br /><br />
+      Laravel<br />
+      React + Vite<br />
+      Flutter + Dart<br />
+      Tailwind CSS
+    </td>
+    <td width="33%" valign="top">
+      <strong>PLATFORM</strong>
+      <br /><br />
+      REST API<br />
+      MySQL<br />
+      Firebase<br />
+      Authentication
+    </td>
+    <td width="33%" valign="top">
+      <strong>INFRASTRUCTURE</strong>
+      <br /><br />
+      Ubuntu VPS<br />
+      Nginx<br />
+      Git & GitHub<br />
+      Production Deployment
+    </td>
+  </tr>
+</table>
+
+---
+
+## ENGINEERING FOCUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Production%20Systems-161B22?style=flat-square&logo=serverfault&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Platform%20Reliability-161B22?style=flat-square&logo=statuspage&logoColor=3FB950" />
+  <img src="https://img.shields.io/badge/API%20%26%20Backend-161B22?style=flat-square&logo=laravel&logoColor=F85149" />
+  <img src="https://img.shields.io/badge/Mobile%20Development-161B22?style=flat-square&logo=flutter&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Security-161B22?style=flat-square&logo=letsencrypt&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Performance-161B22?style=flat-square&logo=speedtest&logoColor=F2CC60" />
+  <img src="https://img.shields.io/badge/Monitoring-161B22?style=flat-square&logo=grafana&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Scalability-161B22?style=flat-square&logo=kubernetes&logoColor=58A6FF" />
+</p>
+
+---
+
+## GITHUB PULSE
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ranumadz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&rank_icon=github"
+  alt="GitHub statistics"
 />
 
 <img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranumadz&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E"
-  alt="Nusirwan most used languages"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranumadz&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E"
+  alt="Most used languages"
 />
 
 </div>
@@ -132,51 +172,101 @@ The goal is to turn Ready Room into a reliable technology platform that supports
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=ranumadz&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"
-  alt="Nusirwan contribution streak"
+  src="https://streak-stats.demolab.com?user=ranumadz&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681"
+  alt="GitHub streak"
 />
 
 </div>
 
 <br />
 
-## Certifications
+<div align="center">
 
-- [Machine Learning and Data Science — Dicoding](https://www.dicoding.com/certificates/JLX124WRNZ72)
-- [Pemrograman Web — Dicoding](https://www.dicoding.com/certificates/MEPJVWK44P3V)
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ranumadz&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Contribution activity graph"
+/>
 
-<br />
+</div>
 
-## Contact
+---
 
-<p>
-  <a href="https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Nusirwan_Eka_Putra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+## CERTIFICATIONS
 
-  <a href="mailto:ranuimaging@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-ranuimaging%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Machine Learning & Data Science</strong>
+      <br />
+      Dicoding Indonesia
+      <br /><br />
+      <a href="https://www.dicoding.com/certificates/JLX124WRNZ72">
+        View Certificate
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Pemrograman Web</strong>
+      <br />
+      Dicoding Indonesia
+      <br /><br />
+      <a href="https://www.dicoding.com/certificates/MEPJVWK44P3V">
+        View Certificate
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/ranumadz">
-    <img
-      src="https://img.shields.io/badge/GitHub-ranumadz-21262D?style=flat-square&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
+---
 
-<br />
+## CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Nusirwan%20Eka%20Putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:ranuimaging@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-ranuimaging%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://github.com/ranumadz">
+  <img
+    src="https://img.shields.io/badge/GitHub-ranumadz-21262D?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://readyroom.id">
+  <img
+    src="https://img.shields.io/badge/ReadyRoom-readyroom.id-C62828?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="ReadyRoom"
+  />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=ranumadz&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square"
+  alt="Profile views"
+/>
+
+<br /><br />
+
+<strong>READY ROOM INDONESIA</strong>
+
+<br />
 
 <sub>Development · Infrastructure · Production</sub>
 
