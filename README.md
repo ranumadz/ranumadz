@@ -2,20 +2,29 @@
 
 # NUSIRWAN EKA PUTRA
 
-### Chief Technology Officer · Ready Room Indonesia
+### CTO at Ready Room Indonesia
 
-I build, ship, and operate digital products across web, mobile, backend, and production infrastructure.
+Building and operating practical software across web, mobile, backend, and infrastructure.
 
 <br />
 
 <a href="https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 <a href="mailto:ranuimaging@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 <a href="https://readyroom.id">
-  <img src="https://img.shields.io/badge/ReadyRoom-Visit_Website-C62828?style=flat-square&logo=googlechrome&logoColor=white" alt="ReadyRoom website" />
+  <img
+    src="https://img.shields.io/badge/ReadyRoom-Visit_Website-C62828?style=flat-square&logo=googlechrome&logoColor=white"
+    alt="Ready Room website"
+  />
 </a>
 
 </div>
@@ -24,27 +33,42 @@ I build, ship, and operate digital products across web, mobile, backend, and pro
 
 ## About
 
-I am a software engineer and technology leader focused on building systems that work beyond the development environment.
+I am a software engineer focused on building systems that are useful, maintainable, and ready for real operations.
 
-At **Ready Room Indonesia**, I lead the development and operation of customer-facing applications, hotel operational systems, backend services, mobile applications, databases, deployments, and production infrastructure.
+At **Ready Room Indonesia**, I lead technology development across customer applications, hotel operational systems, backend services, mobile development, databases, deployment, and production infrastructure.
 
-My work covers the complete product lifecycle—from understanding operational problems and designing technical solutions to releasing, maintaining, and improving systems used in real business operations.
+My work covers the full product lifecycle: understanding operational problems, designing technical solutions, shipping features, maintaining production systems, and improving them as the business grows.
 
 ---
 
-## What I Work On
+## What I Do
 
-**Product Engineering**
-Building practical web and mobile products based on real operational needs.
-
-**Backend and Platform**
-Designing APIs, authentication, database workflows, integrations, and supporting services.
-
-**Production Operations**
-Managing deployments, Linux servers, Nginx, databases, application stability, and technical incidents.
-
-**Technical Direction**
-Turning business requirements into maintainable systems, development priorities, and long-term technology decisions.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Product Engineering</strong>
+      <br /><br />
+      Building web and mobile applications based on real business and operational needs.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend and Platform</strong>
+      <br /><br />
+      Designing APIs, authentication, database workflows, integrations, and supporting services.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Production Operations</strong>
+      <br /><br />
+      Managing deployments, Linux servers, Nginx, databases, application stability, and technical incidents.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Technical Direction</strong>
+      <br /><br />
+      Turning business requirements into maintainable systems and clear development priorities.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,28 +77,53 @@ Turning business requirements into maintainable systems, development priorities,
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,javascript,nodejs,vite,tailwind,flutter,dart,firebase,supabase,mysql,postman,nginx,ubuntu,git,github&perline=10&theme=dark"
-alt="Technology stack"
+  src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,javascript,nodejs,vite,tailwind,flutter,dart,firebase,supabase,mysql,postman,nginx,ubuntu,git,github&perline=9&theme=dark"
+  alt="Technology stack"
 />
 
 </div>
 
 <br />
 
-### Application Development
-
-`Laravel` · `PHP` · `React` · `Next.js` · `JavaScript`
-`Flutter` · `Dart` · `Tailwind CSS` · `Vite`
-
-### Backend and Data
-
-`Node.js` · `REST API` · `MySQL` · `Supabase`
-`Firebase` · `Authentication` · `Postman`
-
-### Infrastructure and Delivery
-
-`Ubuntu VPS` · `Nginx` · `Git` · `GitHub`
-`Production Deployment` · `Server Operations`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>APPLICATION</strong>
+      <br /><br />
+      Laravel<br />
+      PHP<br />
+      React<br />
+      Next.js<br />
+      JavaScript<br />
+      Flutter<br />
+      Dart<br />
+      Tailwind CSS<br />
+      Vite
+    </td>
+    <td width="33%" valign="top">
+      <strong>BACKEND & DATA</strong>
+      <br /><br />
+      Node.js<br />
+      REST API<br />
+      MySQL<br />
+      Supabase<br />
+      Firebase<br />
+      Authentication<br />
+      Postman
+    </td>
+    <td width="33%" valign="top">
+      <strong>INFRASTRUCTURE</strong>
+      <br /><br />
+      Ubuntu VPS<br />
+      Nginx<br />
+      Git<br />
+      GitHub<br />
+      Production Deployment<br />
+      Server Operations<br />
+      System Monitoring
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,34 +133,66 @@ alt="Technology stack"
 
 Ready Room is a hotel booking and operational platform that connects customer booking experiences with internal hotel workflows.
 
-My current responsibilities include:
+My current work includes:
 
-* Customer web application development
-* Hotel booking and operational management systems
-* Partner and hotel extranet development
-* Flutter mobile application development
-* Backend API and database architecture
-* Authentication and notification services
-* Linux server and Nginx management
-* Production deployment and maintenance
-* Performance, security, and system reliability
+- Customer web application development
+- Hotel booking and operational management systems
+- Partner and hotel extranet development
+- Flutter mobile application development
+- Backend API and database architecture
+- Authentication and notification services
+- Linux server and Nginx management
+- Production deployment and maintenance
+- Performance, security, and system reliability
 
-**Environment:** Production
-**Platform status:** Operational
+<br />
+
+<img
+  src="https://img.shields.io/badge/Environment-Production-C62828?style=flat-square"
+  alt="Production environment"
+/>
+<img
+  src="https://img.shields.io/badge/Platform-Operational-238636?style=flat-square"
+  alt="Platform operational"
+/>
 
 ---
 
-## Engineering Interests
+## Engineering Focus
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend_Engineering-21262D?style=flat-square" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Platform_Engineering-21262D?style=flat-square" alt="Platform Engineering" />
-  <img src="https://img.shields.io/badge/Mobile_Development-21262D?style=flat-square" alt="Mobile Development" />
-  <img src="https://img.shields.io/badge/Production_Systems-21262D?style=flat-square" alt="Production Systems" />
-  <img src="https://img.shields.io/badge/API_Design-21262D?style=flat-square" alt="API Design" />
-  <img src="https://img.shields.io/badge/System_Reliability-21262D?style=flat-square" alt="System Reliability" />
-  <img src="https://img.shields.io/badge/Application_Security-21262D?style=flat-square" alt="Application Security" />
-  <img src="https://img.shields.io/badge/Performance-21262D?style=flat-square" alt="Performance" />
+  <img
+    src="https://img.shields.io/badge/Backend_Engineering-21262D?style=flat-square"
+    alt="Backend Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/Platform_Engineering-21262D?style=flat-square"
+    alt="Platform Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/Mobile_Development-21262D?style=flat-square"
+    alt="Mobile Development"
+  />
+  <img
+    src="https://img.shields.io/badge/Production_Systems-21262D?style=flat-square"
+    alt="Production Systems"
+  />
+  <img
+    src="https://img.shields.io/badge/API_Design-21262D?style=flat-square"
+    alt="API Design"
+  />
+  <img
+    src="https://img.shields.io/badge/System_Reliability-21262D?style=flat-square"
+    alt="System Reliability"
+  />
+  <img
+    src="https://img.shields.io/badge/Application_Security-21262D?style=flat-square"
+    alt="Application Security"
+  />
+  <img
+    src="https://img.shields.io/badge/Performance-21262D?style=flat-square"
+    alt="Performance"
+  />
 </p>
 
 ---
@@ -120,29 +201,24 @@ My current responsibilities include:
 
 <div align="center">
 
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=ranumadz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF&include_all_commits=true"
-alt="Nusirwan GitHub statistics"
-/>
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranumadz&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E"
-alt="Most used languages"
-/>
+<a href="https://github.com/ranumadz">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ranumadz&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Nusirwan Eka Putra contribution activity"
+  />
+</a>
 
 </div>
 
-<br />
-
 <div align="center">
 
-<img
-width="96%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=ranumadz&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity"
-alt="GitHub contribution activity"
-/>
+<a href="https://github.com/ranumadz?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/View-My_Repositories-21262D?style=flat-square&logo=github&logoColor=white"
+    alt="View GitHub repositories"
+  />
+</a>
 
 </div>
 
@@ -150,39 +226,83 @@ alt="GitHub contribution activity"
 
 ## Certifications
 
-### Machine Learning and Data Science
-
-**Dicoding Indonesia**
-[View certificate](https://www.dicoding.com/certificates/JLX124WRNZ72)
-
-### Web Programming
-
-**Dicoding Indonesia**
-[View certificate](https://www.dicoding.com/certificates/MEPJVWK44P3V)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Machine Learning and Data Science</strong>
+      <br /><br />
+      Dicoding Indonesia
+      <br /><br />
+      <a href="https://www.dicoding.com/certificates/JLX124WRNZ72">
+        View Certificate
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web Programming</strong>
+      <br /><br />
+      Dicoding Indonesia
+      <br /><br />
+      <a href="https://www.dicoding.com/certificates/MEPJVWK44P3V">
+        View Certificate
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Contact
 
-**LinkedIn**
-[Nusirwan Eka Putra](https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2)
-
-**GitHub**
-[@ranumadz](https://github.com/ranumadz)
-
-**Email**
-[ranuimaging@gmail.com](mailto:ranuimaging@gmail.com)
-
-**Ready Room Indonesia**
-[readyroom.id](https://readyroom.id)
+<table>
+  <tr>
+    <td width="25%">
+      <strong>LinkedIn</strong>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2">
+        Nusirwan Eka Putra
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <strong>GitHub</strong>
+    </td>
+    <td>
+      <a href="https://github.com/ranumadz">
+        @ranumadz
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <strong>Email</strong>
+    </td>
+    <td>
+      <a href="mailto:ranuimaging@gmail.com">
+        ranuimaging@gmail.com
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <strong>Ready Room</strong>
+    </td>
+    <td>
+      <a href="https://readyroom.id">
+        readyroom.id
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=ranumadz&label=Profile%20views&color=1F6FEB&style=flat-square"
-alt="Profile views"
+  src="https://komarev.com/ghpvc/?username=ranumadz&label=Profile%20views&color=1F6FEB&style=flat-square"
+  alt="Profile views"
 />
 
 <br /><br />
