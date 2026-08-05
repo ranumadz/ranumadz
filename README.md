@@ -1,6 +1,6 @@
 <div align="center">
 
-# NUSIRWAN EKA PUTRA
+# Ranu Kennedy
 
 ### CTO at Ready Room Indonesia
 
