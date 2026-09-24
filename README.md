@@ -2,31 +2,11 @@
 
 # Ranu Kennedy
 
-### CTO at Ready Room Indonesia
+### 
 
 Building and operating practical software across web, mobile, backend, and infrastructure.
 
 <br />
-
-<a href="https://www.linkedin.com/in/nusirwan-eka-putra-0051032a2">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="mailto:ranuimaging@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-<a href="https://readyroom.id">
-  <img
-    src="https://img.shields.io/badge/ReadyRoom-Visit_Website-C62828?style=flat-square&logo=googlechrome&logoColor=white"
-    alt="Ready Room website"
-  />
-</a>
-
 </div>
 
 ---
