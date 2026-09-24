@@ -258,16 +258,6 @@ My current work includes:
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="25%">
-      <strong>Ready Room</strong>
-    </td>
-    <td>
-      <a href="https://readyroom.id">
-        readyroom.id
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
