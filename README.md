@@ -107,12 +107,6 @@ My work covers the full product lifecycle: understanding operational problems, d
 
 ---
 
-## Current Work
-
-### Ready Room Indonesia
-
-Ready Room is a hotel booking and operational platform that connects customer booking experiences with internal hotel workflows.
-
 My current work includes:
 
 - Customer web application development
