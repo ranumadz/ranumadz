@@ -15,7 +15,7 @@ Building and operating practical software across web, mobile, backend, and infra
 
 I am a software engineer focused on building systems that are useful, maintainable, and ready for real operations.
 
-At **Ready Room Indonesia**, I lead technology development across customer applications, hotel operational systems, backend services, mobile development, databases, deployment, and production infrastructure.
+I lead technology development across customer applications, backend services, mobile development, databases, deployment, and production infrastructure.
 
 My work covers the full product lifecycle: understanding operational problems, designing technical solutions, shipping features, maintaining production systems, and improving them as the business grows.
 
